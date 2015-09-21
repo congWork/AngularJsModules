@@ -26,6 +26,6 @@ You can now start using the my-loading directive to display an animated spinner.
 the "show" attribute accepts value "true" or "false";
 
 <h2>Example</h2>
-<p><a href="http://plnkr.co/Auyi3VYnhIXsjBtw6yJ5" alt="loadingSpinner"/></p>
+<p><a href="http://plnkr.co/Auyi3VYnhIXsjBtw6yJ5" alt="loadingSpinner">LoadingSpinner</a></p>
 <h2>License</h2>
 <p>Released under the terms of MIT License.</p>
