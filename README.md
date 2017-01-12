@@ -8,6 +8,6 @@ Use, reproduction, distribution, and modification of this code is subject to the
 <h2>Demos</h2>
 <ul>
 <li><a href="http://plnkr.co/Auyi3VYnhIXsjBtw6yJ5" alt="loadingSpinner">loadingSpinner</a></li>
-<li><a href="https://plnkr.co/ZHFNKJswOlCHRfbjfbhZ" alt="ccspinner"><h1>ccspinner</a></li>
+<li><a href="https://plnkr.co/ZHFNKJswOlCHRfbjfbhZ" alt="ccspinner">ccspinner</a></li>
 </ul>
 
