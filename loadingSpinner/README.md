@@ -1,12 +1,10 @@
-# AngularJsModules
+# loadingSpinner Directive
 
 Angular directive to show an animated spinner (using loadingSpinner-1.0.0.js)
 
-# loadingSpinner Directive
 
-<h2>Demo</h2>
-![loadingSpinner Directive Example](https://rawgit.com/congWork/AngularJsModules/master/loadingSpinner/demo.png)
-
+![loadingSpinner Directive Example](https://github.com/congWork/AngularJsModules/blob/master/loadingSpinner/demo.PNG)
+<h2>Demo Link</h2>
 <p><a href="http://plnkr.co/Auyi3VYnhIXsjBtw6yJ5" alt="loadingSpinner">LoadingSpinner</a></p>
 
 
