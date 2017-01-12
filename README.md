@@ -1,5 +1,7 @@
 # AngularJsModules
-v1.0.0 commited the loadingSpinner module
+<ul>
+<li>loadingSpinner</li>
+</ul>
 
 <h1>----loadingSpinner---------</h1>
 
