@@ -5,7 +5,7 @@ Angular directive to show an animated spinner (using ccspinner.js)
 # ccspinner Directive
 
 <h2>Demo</h2>
-![ccspinner Directive Example](https://rawgit.com/congWork/AngularJsModules/master/ccspinner/demo.png)
+![ccspinner Directive Example](https://github.com/congWork/AngularJsModules/blob/master/ccspinner/demo.PNG)
 
 <p><a href="https://plnkr.co/ZHFNKJswOlCHRfbjfbhZ" alt="ccspinner">ccspinner</a></p>
 
